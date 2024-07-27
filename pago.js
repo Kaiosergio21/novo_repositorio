@@ -1,1 +1,5 @@
-console.log("pago");
+
+const p = 'pago';
+
+
+console.log(p);
